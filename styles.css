@@ -1,3 +1,9 @@
+.container
+{
+    display: grid;
+    place-items: center;
+}
+
 #appBg
 {
     height: 420px;
